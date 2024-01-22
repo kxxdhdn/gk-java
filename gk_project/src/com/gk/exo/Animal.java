@@ -1,4 +1,4 @@
-package com.gk.exo1;
+package com.gk.exo;
 
 public class Animal {
 

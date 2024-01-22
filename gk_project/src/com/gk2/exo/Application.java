@@ -1,4 +1,4 @@
-package com.gk2.exo1;
+package com.gk2.exo;
 
 import java.util.Scanner;
 
