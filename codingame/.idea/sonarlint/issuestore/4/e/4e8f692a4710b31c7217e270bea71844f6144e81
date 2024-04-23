@@ -1,0 +1,12 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ´Æ£8´Ü®Òè1J$980b8f26-491d-40c9-9c86-ba936d3543f2
+p
+java:S1172"-Remove this unused method parameter "points".(ºÕºì8¸Ü®Òè1J$71737d9e-33b5-4f95-9d86-ea4bee1a110e
+n
+java:S1168"+Return an empty collection instead of null.(¥¹ï8¹Ü®Òè1J$89b2d0c9-28dd-4391-8db6-dac94dfeb10e
+r	java:S106""+Replace this use of System.out by a logger.(Ã¾‘åûÿÿÿÿ8»Ü®Òè1J$33da4bb9-e0e9-4308-9b3c-b94dde21587e
+l	java:S106$"+Replace this use of System.out by a logger.(ç©’%8»Ü®Òè1J$14be1e48-d7f8-4e07-b22f-ff5589c0a625
+z
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8»Ü®Òè1J$d41529c8-a708-4853-a759-071676d65ede
+t
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8»Ü®Òè1J$7a183647-92e9-40ec-a8b7-834ff9eaf360

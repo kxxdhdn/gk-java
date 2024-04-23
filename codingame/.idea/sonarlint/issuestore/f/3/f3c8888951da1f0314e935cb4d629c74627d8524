@@ -1,0 +1,8 @@
+
+¡
+java:S1488/"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ìæè°8•¦†Òè1J$4d5bbb0e-09ae-40b9-a88b-2eecbd77f8a6
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾ á»J$6f92fa4d-9699-46a9-b0d9-e3d8b046cf03
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Á„÷¶8ã¦†Òè1J$97c4197c-9dfa-4ad0-8270-2673216e71e1
+r	java:S106C"+Replace this use of System.out by a logger.(°»’Ðùÿÿÿÿ8è¦†Òè1J$785a9a67-0ffa-486d-a16b-1f79e01e1441
+m	java:S106D"+Replace this use of System.out by a logger.(žÝØÝ8è¦†Òè1J$df73595b-bb34-4fe4-8651-57de1149c7db

@@ -1,0 +1,11 @@
+
+Š
+java:S2184'"BCast one of the operands of this addition operation to a "double".(Ü»ªºüÿÿÿÿ8Ö·¾Òè1J$bf60e3c9-4991-4c05-aa32-70f3e716e616
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËìãÈüÿÿÿÿ8–Œ¿Òè1J$ed55830f-3861-4990-ac6c-82822a520d4b
+Œ
+java:S22595"DA "NullPointerException" could be thrown; "result" is nullable here.(€©†¥ùÿÿÿÿ8ã·¾Òè1J$b46aa447-3959-4e53-87d1-ac2a2302e2c0
+n
+java:S1168	"+Return an empty collection instead of null.(¥¹ï8æ·¾Òè1J$78099de1-c83c-49fc-a201-eb7902f9eae4
+r	java:S1069"+Replace this use of System.out by a logger.(îë›ñùÿÿÿÿ8é·¾Òè1J$01fe7fdc-e34e-4943-9824-265032b5bf60
+r	java:S106:"+Replace this use of System.out by a logger.(ÁÊÁÈüÿÿÿÿ8é·¾Òè1J$c37e0d4c-ecd8-476d-95e5-78c0357a0fb6
+r	java:S106;"+Replace this use of System.out by a logger.(öÓïèùÿÿÿÿ8ê·¾Òè1J$28597e27-fdc4-4047-9ea9-8306e115231d

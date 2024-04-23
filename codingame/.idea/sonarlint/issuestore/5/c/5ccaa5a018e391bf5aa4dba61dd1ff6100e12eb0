@@ -1,0 +1,10 @@
+
+‡
+java:S2583"DChange this condition so that it does not always evaluate to "false"(äôìï8°İ¢Òè1J$4638128e-5675-48fd-ba3d-e243791626f8
+{
+java:S3400
+"9Remove this method and declare a constant for this value.(¸®Ã'8Ïƒ£Òè1J$588af0d4-016f-4a8c-b070-1b0549799686
+s
+java:S1172	"+Remove this unused method parameter "word".(ÿº“úÿÿÿÿ8Ïƒ£Òè1J$bebce757-b27e-4d40-8712-d9140e289099
+r	java:S106"+Replace this use of System.out by a logger.(æƒš–ûÿÿÿÿ8ƒù¡Òè1J$9fec494a-9ca7-40cb-891b-242dd2192dd1
+l	java:S106"+Replace this use of System.out by a logger.(õÈŸ98„ù¡Òè1J$b5fcee4f-1904-4024-ac69-55d9b61f2288

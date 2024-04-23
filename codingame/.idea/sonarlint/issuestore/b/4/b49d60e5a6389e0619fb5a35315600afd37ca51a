@@ -1,0 +1,13 @@
+
+„
+java:S49735"<Strings and Boxed types should be compared using "equals()".(Ÿ™şúûÿÿÿÿ8ƒø¶Òè1J$efe30319-7da2-45b8-ae6a-8e881a039785
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã„—Ê8„á·Òè1J$47333af6-1e31-4a07-aedc-7cf2428b5ddf
+n
+java:S1168"+Return an empty collection instead of null.(¥¹ï8éø¶Òè1J$df6a6e37-bbdb-4167-80c9-2da48402d313
+{
+java:S1481"3Remove this unused "samePointCount" local variable.(áÔµºıÿÿÿÿ8ëø¶Òè1J$17a0cc89-f13d-4fe1-90a3-446bf3431797
+n
+java:S1168F"+Return an empty collection instead of null.(êÕ—´8íø¶Òè1J$291a598f-1996-4ba9-a062-01dfdb612e33
+r	java:S106Y"+Replace this use of System.out by a logger.(¿ä±Êûÿÿÿÿ8îø¶Òè1J$060a6b21-1f68-4c53-b0e6-a3c592e9dc4f
+m	java:S106Z"+Replace this use of System.out by a logger.(’ïÖĞ8ïø¶Òè1J$269c122f-857e-48a0-b3d4-7def14425be6
+m	java:S106["+Replace this use of System.out by a logger.(Â¦ ƒ8ïø¶Òè1J$126af9d9-d43e-47a8-8a34-bee8ca733039

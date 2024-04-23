@@ -1,0 +1,11 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËìãÈüÿÿÿÿ8¡ƒÁÒè1J$bcb786bb-52c5-4305-a28b-d4e45048e3ac
+f
+java:S2259"DA "NullPointerException" could be thrown; "result" is nullable here.(€©†¥ùÿÿÿÿ8áÒÁÒè1
+u
+java:S1172"-Remove this unused method parameter "points".(ÌóÌ¼ùÿÿÿÿ8¤ƒÁÒè1J$627a4f6c-b966-453d-8f53-67dff86a7e4b
+n
+java:S1168"+Return an empty collection instead of null.(¥¹ï8¥ƒÁÒè1J$e92829d7-b195-4a66-a117-640566dc0cc0
+L	java:S106!"+Replace this use of System.out by a logger.(îë›ñùÿÿÿÿ8æÒÁÒè1
+L	java:S106""+Replace this use of System.out by a logger.(ÁÊÁÈüÿÿÿÿ8æÒÁÒè1
+L	java:S106#"+Replace this use of System.out by a logger.(öÓïèùÿÿÿÿ8æÒÁÒè1

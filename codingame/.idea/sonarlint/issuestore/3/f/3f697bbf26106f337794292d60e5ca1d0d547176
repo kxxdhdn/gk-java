@@ -1,0 +1,12 @@
+
+o
+java:S1172",Remove this unused method parameter "words".(‰¼ÿî8ôóûáç1J$fa547862-d1c8-414b-9ba3-456b5c6e6c49
+i
+java:S1168"&Return an empty array instead of null.(¥¹ï8‚Ìûáç1J$53aee45e-0ddb-4025-9b51-60f99ea4ee58
+r
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8šøáç1J$90f929fe-d1fa-4cc8-a5e9-1afff08f2b9f
+m	java:S106"+Replace this use of System.out by a logger.(ùàèü8œøáç1J$33067e30-2665-4298-a5ca-3081309780fe
+m	java:S106"+Replace this use of System.out by a logger.(ÿƒ®ë8œøáç1J$b6deeeba-55ff-4b2d-9d26-8adb151e58f9
+i
+java:S1481"&Remove this unused "i" local variable.( Ûè¸8•€¡Ñè1J$7c774099-1242-4a93-9191-0f99c2dd5e29
+k	java:S108")Either remove or fill this block of code.( Ûè¸8•€¡Ñè1J$497d3171-dff0-41a3-b42a-223ead961f1f

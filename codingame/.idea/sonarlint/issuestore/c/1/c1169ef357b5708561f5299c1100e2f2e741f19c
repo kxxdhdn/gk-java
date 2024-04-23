@@ -1,0 +1,15 @@
+
+
+java:S2259$"JA "NullPointerException" could be thrown; "boundingRect" is nullable here.(¤æÈ“8š‘Ñè1J$c14af1ae-38a9-42c4-85ef-7051e1514d84
+€
+java:S1172"8Remove this unused method parameter "coordinatesPoints".(õÒ¨ÿüÿÿÿÿ8ˆ„Áâç1J$c0657605-f948-49ef-93a0-170b8cf030ed
+n
+java:S1168"+Return an empty collection instead of null.(¥¹ï8‰„Áâç1J$4468a23d-59ec-4c1f-a8e8-b9fd7dac07e6
+m	java:S106#"+Replace this use of System.out by a logger.(áó‰³8†š‘Ñè1J$aed7fcab-d2ff-4908-988e-edad25d92b9e
+m	java:S106$"+Replace this use of System.out by a logger.(¤æÈ“8‡š‘Ñè1J$1f45e698-9adb-4490-b421-2fb18e7b23cf
+r	java:S106%"+Replace this use of System.out by a logger.(Ë¨Úüÿÿÿÿ8‡š‘Ñè1J$eced6036-ce52-4e5e-9bd1-9aac5f813c42
+r	java:S106&"+Replace this use of System.out by a logger.(ÆŒÚ®ûÿÿÿÿ8‡š‘Ñè1J$e96e0893-ae19-4b93-a57f-238a4f1de2bb
+m	java:S106)"+Replace this use of System.out by a logger.(ùàèü8ˆš‘Ñè1J$c70f2ea3-6b49-429e-bad6-427ffbeec4e7
+r	java:S106+"+Replace this use of System.out by a logger.(êÓæøùÿÿÿÿ8ˆš‘Ñè1J$f529fa04-ecc6-42b9-945c-e095217aad60
+v
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8‰š‘Ñè1J$24c4d403-775c-4b50-a24f-de44bb0b4560
